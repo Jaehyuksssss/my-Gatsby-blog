@@ -3,9 +3,6 @@
 ## 리액트 정적 프레임워크인 Gatsby를 사용하여 자기소개 블로그를 만들기.
 ---
 
-
-
-
 ## Technologies
 
 * Git, github
@@ -31,13 +28,16 @@
 <img src = 'my_blog/contents/Image/main.png'>
 
 ### 3. 포스트 
-<img src = "my_blog/contents/Image/comment.png">
+- 상단 배경안에 계속해서 카테고리가 보이도록 구현했습니다.
+<img src = "my_blog/contents/Image/post.png"> 
+
 
 - github Utterances 위젯을 통해 댓글을 달면 해당 repo issue에 댓글이 달릴 수 있게 함.
+<img src = "my_blog/contents/Image/comment.png">
 
 
-<img src = "my_blog/contents/Image/post.png"> 
-- 상단 배경안에 계속해서 카테고리가 보이도록 구현했습니다.
+
+---
 
 
 

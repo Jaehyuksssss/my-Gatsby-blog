@@ -38,7 +38,7 @@
 
 <img src = "my_blog/contents/Image/post.png"> 
 - 상단 배경안에 계속해서 카테고리가 보이도록 구현했습니다.
----
+
 
 
 

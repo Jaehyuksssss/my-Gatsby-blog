@@ -1,6 +1,7 @@
 # my-Gatsby-blog
 
 ## 리액트 정적 프레임워크인 Gatsby를 사용하여 자기소개 블로그를 만들기
+블로그 주소 : https://jaehyuksssss.github.io/
 ---
 
 ## Technologies
